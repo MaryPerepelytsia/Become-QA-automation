@@ -1,5 +1,8 @@
 12345
 
+def new_test():
+    pass
+
 678910
 
 def test_it_checks_logout():
